@@ -23,7 +23,7 @@ export const SidebarData = [
    },
    {
       title: 'Contact',
-      path: '/',
+      path: '/contact',
       icon: <IoIcons.IoIosContact />,
       cName: 'nav-text'
    },
